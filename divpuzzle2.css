@@ -22,12 +22,16 @@
   float: left;
 }
 .center-container-first {
+  width: 150px;
   height: 50px;
-background-color: #cc00df;
+  background-color: #cc00df;
+float: left;
 }
 .center-container-second {
+  width: 150px;
   height: 100px;
-background-color: #0093b7;
+  background-color: #0093b7;
+  float: left;
 }
 .center-container-third {
   width: 250px;
