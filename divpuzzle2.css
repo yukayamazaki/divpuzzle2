@@ -3,49 +3,49 @@
   display: block;
   clear: both;
 }
-.page-wrapper  {
-  width: 400px;
-}
 .header {
+  width: 400px;
   height: 100px;
   background-color: #ff0000;
 }
-.left-container {
+.side-area {
   width: 150px;
   height: 250px;
   background-color: #00ff51;
   float: left;
 }
-.wrapper {
-  width: 150px;
-  height: 150px;
+.main-area {
+  width: 250px;
+  height: 250px;
   float: left;
 }
-.center-container-first {
+.left-section-first {
   width: 150px;
   height: 50px;
-  background-color: #cc00df;
-float: left;
+  background-color: #cc00bd;
 }
-.center-container-second {
+.left-section-second {
   width: 150px;
   height: 100px;
   background-color: #0093b7;
+}
+.left-container {
   float: left;
 }
-.center-container-third {
+.right-section {
+  width: 100px;
+  height: 150px;
+  background-color: #ff9e6b;
+  float: right;
+}
+.left-section-third {
   width: 250px;
   height: 100px;
   background-color: #8c2727;
   float: left;
 }
-.right-container {
-  width: 100px;
-  height: 150px;
-  background-color: #ff9e6b;
-  float: left;
-}
 .footer {
+  width: 400px;
   height: 100px;
   background-color: #fff700;
 }
